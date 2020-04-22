@@ -1,0 +1,176 @@
+element.style {
+}
+:root{
+  --main-color: #000000;
+  --secondary-color: #FFD700;
+}
+
+html[Attributes Style] {
+    -webkit-locale: "it-IT";
+}
+
+html {
+    background-color:#000000;
+}
+element.style {
+}
+
+
+element.style {
+}
+
+
+element.style {
+}
+html, body {
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+element.style {
+}
+
+
+main {
+    display: block;
+}
+
+element.style {
+}
+article {
+    margin: 10px;
+    padding: 0;
+}
+article[Attributes Style] {
+    text-align: center;
+}
+
+
+element.style {
+}
+article .profile-pic {
+    width: 300px;
+    height: auto;
+    margin: 50px;
+}
+
+div.footer {
+    padding: 10px;
+    background-color: #000000;
+    width: 1000px;
+    height: 50px;
+  }
+
+div.header #home {
+  font-size: 50px;
+  font-family: "Verdana";
+  padding: 10px;
+  background-color: #000000;
+  width: 1850px;
+  height: 60px;
+}
+
+
+
+element.style {
+}
+div.article {
+    width: 500px;
+}
+
+
+div {
+    position:relative;
+}
+
+div.article {
+    background-color:#000000;
+    max-width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 20px;
+    box-sizing: border-box;
+    background-color: #778899;
+}
+
+element.style {
+}
+
+div.article .article-title {
+    font-size: 55px;
+    font-family: 'Verdana';
+    margin: 3px;
+    color: #00FFFF;
+}
+
+
+element.style {
+}
+div.article .content {
+    text-align: left;
+}
+
+
+element.style {
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+div.article .content {
+    font-family: 'Verdana';
+    font-size: 25px;
+    margin: 20px;
+}
+ul{
+  list-style-position: inside;
+  text-align: left;
+  color: #00FFFF;
+}
+
+
+element.style {
+}
+div#contact {
+    position: relative;
+    width: 500px;
+    margin: auto;
+}
+
+element.style {
+}
+#social {
+    padding: 0;
+    margin: 0;
+
+}
+ a.resized {
+  display:inline-block;
+  width: 80px;
+  height: 80px;
+  margin: 150px;
+
+}
+
+element.style {
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+header {
+    position: sticky;
+    top: 0;
+}
+
+footer {
+  postion: sticky;
+  top: 0;
+}
