@@ -62,13 +62,13 @@ div.footer {
     height: 50px;
   }
 
-div.header #home {
+div.header {
   font-size: 50px;
   font-family: "Verdana";
   padding: 10px;
-  background-color: #000000;
-  width: 1850px;
-  height: 60px;
+  background-color: #00FFFF;
+  width: 1000px;
+  height: 50px;
 }
 
 
