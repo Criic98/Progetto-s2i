@@ -171,3 +171,7 @@ footer {
   postion: sticky;
   top: 0;
 }
+
+@media screen and (max-device-width: 400px) {
+  div.header .title { font-size: 25px;
+}
