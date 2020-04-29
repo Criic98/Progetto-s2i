@@ -178,7 +178,7 @@ footer {
   top: 0;
 }
 
-@media screen and (max-device-width: 400px) {
+@media screen and (max-device-width: 500px) {
   div.header .title { font-size: 25px;
 }
 }
