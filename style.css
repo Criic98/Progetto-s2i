@@ -84,7 +84,7 @@ div {
 }
 
 div.article {
-      max-width: 500px;
+    max-width: 500px;
     margin: auto;
     padding: 15px;
 }
@@ -103,6 +103,7 @@ div.article .article-title {
 
 element.style {
 }
+
 div.article .content {
     text-align: left;
 }
@@ -118,13 +119,15 @@ p {
     margin-inline-start: 0px;
     margin-inline-end: 0px;
 }
+
 div.article .content {
     font-family: 'Verdana';
     font-size: 25px;
     margin: 20px;
     color: #00FFFF;
 }
-ul{
+
+ul {
   list-style-position: inside;
   text-align: left;
   color: #00FFFF;
@@ -133,6 +136,7 @@ ul{
 
 element.style {
 }
+
 div#contact {
     position: relative;
     width: 500px;
@@ -141,11 +145,12 @@ div#contact {
 
 element.style {
 }
+
 #social {
     padding: 0;
     margin: 0;
-
 }
+
  a.resized {
   display:inline-block;
   width: 80px;
@@ -156,6 +161,7 @@ element.style {
 
 element.style {
 }
+
 a {
     text-decoration: none;
     color: inherit;
@@ -174,4 +180,5 @@ footer {
 
 @media screen and (max-device-width: 400px) {
   div.header .title { font-size: 25px;
+}
 }
