@@ -49,10 +49,17 @@ article[Attributes Style] {
 
 element.style {
 }
+
 article .profile-pic {
     width: 300px;
     height: auto;
     margin: 50px;
+}
+
+article .profile-pick {
+    width: 580px;
+    height: auto;
+    margin: 30px;
 }
 
 div.footer {
