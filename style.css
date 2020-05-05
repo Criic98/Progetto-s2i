@@ -186,7 +186,7 @@ footer {
 }
 
 @media screen and (max-device-width: 500px) {
-  div.header .title { font-size: 25px;
-    align:center;
+  div.header .title { font-size: 40px;
+    
 }
 }
